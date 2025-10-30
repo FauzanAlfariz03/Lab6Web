@@ -1,4 +1,4 @@
-# Lab6Web - Praktikum: Twitter Bootstrap
+# Lab6Web 
 
 Nama: Fauzan Alfariz
 
